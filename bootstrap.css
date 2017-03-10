@@ -1,0 +1,16 @@
+.navbar-default {
+    background-color: #99ff99;
+}
+
+.navbar-collapse .navbar-nav .active a {
+    color: black;
+    background-color: #99ff99;
+}
+
+.navbar-collapse .navbar-nav li a {
+    color: black;
+}
+
+.navbar-header a.navbar-brand {
+    color: black;
+}
